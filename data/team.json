@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Dr. Manuel Rodríguez",
+        "role": "Veterinario Principal",
+        "experience": "10 años",
+        "specialty": "Medicina interna y cirugía general",
+        "image": "assets/team/dr-manuel.png"
+    },
+    {
+        "name": "Dr. Diego Morales",
+        "role": "Veterinario",
+        "experience": "6 años",
+        "specialty": "Dermatología y comportamiento animal",
+        "image": "assets/team/dr-diego.png"
+    },
+    {
+        "name": "Luisa Fernanda Pérez",
+        "role": "Asistente Veterinaria",
+        "experience": "4 años",
+        "specialty": "Cuidados de emergencia y postoperatorios",
+        "image": "assets/team/luisa-perez.png"
+    },
+    {
+        "name": "Alejandra Molina",
+        "role": "Asistente Veterinaria",
+        "experience": "2 años",
+        "specialty": "Cuidados de emergencia y postoperatorios",
+        "image": "assets/team/alejandra-molina.png"
+    },
+    {
+        "name": "Carlos Jiménez",
+        "role": "Técnico de Laboratorio",
+        "experience": "5 años",
+        "specialty": "Análisis clínicos y diagnóstico por imagen",
+        "image": "assets/team/carlos-jimenez.png"
+    },
+    {
+        "name": "Alejandra López",
+        "role": "Recepcionista",
+        "experience": "3 años",
+        "specialty": "Atención al cliente y gestión de citas",
+        "image": "assets/team/alejandra-lopez.png"
+    }
+]
