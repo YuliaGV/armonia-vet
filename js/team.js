@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", () => {
   if (!teamContainer) return;
 
   // Obtenemos la data del JSON (de momento, en el futuro habrá una API)
-  fetch("/data/team.json")
+  fetch("./data/team.json")
     .then((response) => {
       if (!response.ok) {
         throw new Error("Error en la red");
