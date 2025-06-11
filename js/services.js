@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   if (!servicesContainer) return;
 
-  fetch("./data/services.json")
+  fetch("../data/services.json")
     .then((res) => {
       if (!res.ok) throw new Error("Error al cargar servicios");
       console.log("Servicios cargados correctamente");
