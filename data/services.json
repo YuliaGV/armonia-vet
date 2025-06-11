@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "name": "Ayudas Diagnósticas",
+      "description": "Servicios de apoyo diagnóstico como rayos X, ecografías, y otros estudios de imagen."
+    },
+    {
+      "id": 2,
+      "name": "Hospitalización",
+      "description": "Área equipada para la atención y monitoreo continuo de mascotas en estado crítico o recuperación postoperatoria."
+    },
+    {
+      "id": 3,
+      "name": "Cirugía Veterinaria",
+      "description": "Procedimientos quirúrgicos programados o de emergencia realizados por profesionales calificados."
+    },
+    {
+      "id": 4,
+      "name": "Medicina Preventiva",
+      "description": "Vacunación, desparasitación, control de peso, y revisiones periódicas para prevenir enfermedades."
+    },
+    {
+      "id": 5,
+      "name": "Consulta Veterinaria",
+      "description": "Evaluación médica general para diagnóstico y tratamiento de condiciones comunes."
+    },
+    {
+      "id": 6,
+      "name": "Trámite de viaje",
+      "description": "Gestión de certificados de salud y documentación requerida para viajar con mascotas."
+    },
+    {
+      "id": 7,
+      "name": "Laboratorio Clínico",
+      "description": "Análisis de muestras para diagnóstico como hemogramas, perfiles bioquímicos, entre otros."
+    }
+]
