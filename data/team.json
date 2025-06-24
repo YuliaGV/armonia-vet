@@ -14,20 +14,6 @@
         "image": "assets/team/dr-diego.png"
     },
     {
-        "name": "Dra. Ana Torres",
-        "role": "Veterinaria",
-        "experience": "8 años",
-        "specialty": "Medicina preventiva y nutrición",
-        "image": "assets/team/dra-ana.png"
-    },
-    {
-        "name": "Luisa Fernanda Pérez",
-        "role": "Asistente Veterinaria",
-        "experience": "4 años",
-        "specialty": "Cuidados de emergencia y postoperatorios",
-        "image": "assets/team/luisa-perez.png"
-    },
-    {
         "name": "Alejandra Molina",
         "role": "Asistente Veterinaria",
         "experience": "2 años",
